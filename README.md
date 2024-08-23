@@ -1,1 +1,1 @@
-# DATA70222
+This repository accompanies the dissertation titled “Large Language Models (LLMs) and Their Financial Applications”, which constitutes an extended research project report submitted to the University of Manchester for the degree of Master of Data Science in the Faculty of Humanities.
